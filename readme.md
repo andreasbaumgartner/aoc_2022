@@ -1,3 +1,3 @@
 ## Advent of Code 2022
 
-# Repo for the solution
+Repo for the solution

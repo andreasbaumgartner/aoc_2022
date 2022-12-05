@@ -1,4 +1,6 @@
 // Advent of Code 2022 Number One
+// Code by ThePrimeTime
+
 use anyhow::Result;
 
 // Step 1
